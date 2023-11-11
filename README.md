@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Red-Lily7
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning java script 
+- 🌱 I’m currently learning nodejs
 - 💞️ I’m looking to collaborate on website creation projects 
 - 📫 How to reach me animecontent38@gmail.com
 
